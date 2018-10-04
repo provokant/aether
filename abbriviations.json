@@ -1,0 +1,9 @@
+{
+  "abbriviations: [
+    ["BLUF", "Bottom Line Up Front"],
+    ["TL;DR", "too long; didn't read"],
+    ["KISS", "Keep it simple stupid"],
+    ["DRY", "Don't repeat yourself"],
+    ["STOP", "Sit down, think, orientate, plan."]
+  ]
+}
