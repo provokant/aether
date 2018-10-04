@@ -2,6 +2,9 @@
   
 <div align="center">Gist, quintessence, leasons learned all over the time</div>
 
+<br>
 
+
+# Content
 - [List of common Abbriviations](/abbriviations.json)
 - [Rules of Thumb](/rulesohthumb.json)
