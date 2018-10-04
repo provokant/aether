@@ -1,39 +1,35 @@
 {
-  "rulesofthumb": {
-    "list": [
-      "Minimize bad redundancy, maximize good redundancy",
-      "Seek antifragility (Antifragile: Things That Gain From Disorder)",
-      "Via negativa. The negative way is a good way. It is good to know what is bad. It is good to know what not to do.",
-      "Tell others (document) why you are doing what you are doing.",
-      "Avoid analysis paralysis.",
-      "Be original, be creative, be constructive but do not reinvent the wheel – in doubt do reinvent the wheel.",
-      "Sapere aude! Habe Mut dich deines eigenen Verstandes zu bedienen.",
-      "Docere aude! (siehe Barcamp)",
-      "Don’t panic!",
-      "42",
-      "Think Fast, Talk Smart.",
-      "Think Smart, Talk Slow.",
-      "Seek Feedback.",
-      "Fail-Fast (and hard).",
-      "Don’t copy and paste, copy, improve and paste.",
-      "Rather change your patterns than your reasons for them.",
-      "Don’t expect others to change their patterns. Don’t blame them for not doing so.",
-      "People are always more complex than our narratives of them.",
-      "Always assume good intentions",
-      "If something goes wrong, it was not intended. Period.",
-      "Don’t change it, improve it!",
-      "Be explicit about your intentions.",
-      "Auf den Schultern von Giganten. „Wenn ich weiter geblickt habe, so deshalb, weil ich auf den Schultern von Riesen stehe.” (Newton)",
-      "Manchmal schauen Riesen auch in die falsche Richtung.",
-      "Die Leserin hat Recht.",
-      "Nichts menschliches ist mir fremd.",
-      {
-        "list": [
-          "For every complex problem there is an answer that is clear, simple, and wrong.",
-          "H. L. Mencken",
-          "https://de.m.wikipedia.org/wiki/H._L._Mencken"
-        ]
-      }
+  "rulesofthumb: [
+    "Minimize bad redundancy, maximize good redundancy",
+    "Seek antifragility (Antifragile: Things That Gain From Disorder)",
+    "Via negativa. The negative way is a good way. It is good to know what is bad. It is good to know what not to do.",
+    "Tell others (document) why you are doing what you are doing.",
+    "Avoid analysis paralysis.",
+    "Be original, be creative, be constructive but do not reinvent the wheel – in doubt do reinvent the wheel.",
+    "Sapere aude! Habe Mut dich deines eigenen Verstandes zu bedienen.",
+    "Docere aude! (siehe Barcamp)",
+    "Don’t panic!",
+    "42",
+    "Think Fast, Talk Smart.",
+    "Think Smart, Talk Slow.",
+    "Seek Feedback.",
+    "Fail-Fast (and hard).",
+    "Don’t copy and paste, copy, improve and paste.",
+    "Rather change your patterns than your reasons for them.",
+    "Don’t expect others to change their patterns. Don’t blame them for not doing so.",
+    "People are always more complex than our narratives of them.",
+    "Always assume good intentions",
+    "If something goes wrong, it was not intended. Period.",
+    "Don’t change it, improve it!",
+    "Be explicit about your intentions.",
+    "Auf den Schultern von Giganten. „Wenn ich weiter geblickt habe, so deshalb, weil ich auf den Schultern von Riesen stehe.” (Newton)",
+    "Manchmal schauen Riesen auch in die falsche Richtung.",
+    "Die Leserin hat Recht.",
+    "Nichts menschliches ist mir fremd.",
+    [
+      "For every complex problem there is an answer that is clear, simple, and wrong.",
+      "H. L. Mencken",
+      "https://de.m.wikipedia.org/wiki/H._L._Mencken"
     ]
-  } 
+  ]
 }
