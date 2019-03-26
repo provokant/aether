@@ -7,5 +7,5 @@
 
 # Content (machine-readable)
 
-- [List of common Abbriviations](/abbriviations.json)
-- [Rules of Thumb](/rulesosthumb.json)
+- [List of common Abbriviations](./abbriviations.json)
+- [Rules of Thumb](./rulesofthumb.json)
