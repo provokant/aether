@@ -22,14 +22,113 @@
     "If something goes wrong, it was not intended. Period.",
     "Don’t change it, improve it!",
     "Be explicit about your intentions.",
-    "Auf den Schultern von Giganten. „Wenn ich weiter geblickt habe, so deshalb, weil ich auf den Schultern von Riesen stehe.” (Newton)",
+    {
+      "quote": "Auf den Schultern von Giganten. „Wenn ich weiter geblickt habe, so deshalb, weil ich auf den Schultern von Riesen stehe.”",
+      "author": "Newton",
+      "link": ""
+    },
     "Manchmal schauen Riesen auch in die falsche Richtung.",
     "Die Leserin hat Recht.",
     "Nichts menschliches ist mir fremd.",
-    [
-      "For every complex problem there is an answer that is clear, simple, and wrong.",
-      "H. L. Mencken",
-      "https://de.m.wikipedia.org/wiki/H._L._Mencken"
-    ]
+    {
+      "quote": "For every complex problem there is an answer that is clear, simple, and wrong.",
+      "author": "H. L. Mencken",
+      "link": "https://de.m.wikipedia.org/wiki/H._L._Mencken"
+    },
+    {
+      "quote": "Beautiful is better than ugly.",
+      "author": "Tim Peters",
+      "link": "https://www.python.org/dev/peps/pep-0020/"
+    },
+    {
+      "quote": "Explicit is better than implicit.",
+      "author": "Tim Peters",
+      "link": "https://www.python.org/dev/peps/pep-0020/"
+    },
+    {
+      "quote": "Simple is better than complex.",
+      "author": "Tim Peters",
+      "link": "https://www.python.org/dev/peps/pep-0020/"
+    },
+    {
+      "quote": "Complex is better than complicated.",
+      "author": "Tim Peters",
+      "link": "https://www.python.org/dev/peps/pep-0020/"
+    },
+    {
+      "quote": "Flat is better than nested.",
+      "author": "Tim Peters",
+      "link": "https://www.python.org/dev/peps/pep-0020/"
+    },
+    {
+      "quote": "Sparse is better than dense.",
+      "author": "Tim Peters",
+      "link": "https://www.python.org/dev/peps/pep-0020/"
+    },
+    {
+      "quote": "Readability counts.",
+      "author": "Tim Peters",
+      "link": "https://www.python.org/dev/peps/pep-0020/"
+    },
+    {
+      "quote": "Special cases aren't special enough to break the rules.",
+      "author": "Tim Peters",
+      "link": "https://www.python.org/dev/peps/pep-0020/"
+    },
+    {
+      "quote": "Although practicality beats purity.",
+      "author": "Tim Peters",
+      "link": "https://www.python.org/dev/peps/pep-0020/"
+    },
+    {
+      "quote": "Errors should never pass silently.",
+      "author": "Tim Peters",
+      "link": "https://www.python.org/dev/peps/pep-0020/"
+    },
+    {
+      "quote": "Unless explicitly silenced.",
+      "author": "Tim Peters",
+      "link": "https://www.python.org/dev/peps/pep-0020/"
+    },
+    {
+      "quote": "In the face of ambiguity, refuse the temptation to guess.",
+      "author": "Tim Peters",
+      "link": "https://www.python.org/dev/peps/pep-0020/"
+    },
+    {
+      "quote": "There should be one-- and preferably only one --obvious way to do it.",
+      "author": "Tim Peters",
+      "link": "https://www.python.org/dev/peps/pep-0020/"
+    },
+    {
+      "quote": "Although that way may not be obvious at first unless you're Dutch.",
+      "author": "Tim Peters",
+      "link": "https://www.python.org/dev/peps/pep-0020/"
+    },
+    {
+      "quote": "Now is better than never.",
+      "author": "Tim Peters",
+      "link": "https://www.python.org/dev/peps/pep-0020/"
+    },
+    {
+      "quote": "Although never is often better than *right* now.",
+      "author": "Tim Peters",
+      "link": "https://www.python.org/dev/peps/pep-0020/"
+    },
+    {
+      "quote": "If the implementation is hard to explain, it's a bad idea.",
+      "author": "Tim Peters",
+      "link": "https://www.python.org/dev/peps/pep-0020/"
+    },
+    {
+      "quote": "If the implementation is easy to explain, it may be a good idea.",
+      "author": "Tim Peters",
+      "link": "https://www.python.org/dev/peps/pep-0020/"
+    },
+    {
+      "quote": "Namespaces are one honking great idea -- let's do more of those!",
+      "author": "Tim Peters",
+      "link": "https://www.python.org/dev/peps/pep-0020/"
+    }
   ]
 }
